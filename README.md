@@ -9,7 +9,6 @@ kiwigaze@hk ~ $ cat /etc/profile
 NAME     Qi Yijiazhen (KiwiGaze)
 ROLE     Full-stack engineer, AI tooling hacker
 BASE     Hong Kong
-CURRENT  Founder-mode @ Simplifying — simplifying the world, one tool at a time
 FOCUS    LLM agents · RAG pipelines · developer tooling · macOS utilities
 OSS      Contributor @ multica-ai/multica (managed agents platform)
 SITE     qiyijiazhen.com
@@ -17,8 +16,8 @@ SITE     qiyijiazhen.com
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiwiGaze&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/KiwiGaze)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiGaze&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/KiwiGaze)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiwiGaze&theme=tokyonight)](https://github.com/KiwiGaze)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiwiGaze&theme=tokyonight)](https://github.com/KiwiGaze)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiwiGaze&theme=tokyonight&hide_border=true)](https://github.com/KiwiGaze)
 
