@@ -33,10 +33,7 @@ SITE     qiyijiazhen.com
 | --- | --- |
 | [glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot) | GLM-5.2 + full GLM lineup inside GitHub Copilot Chat (BYOK) — VS Code extension |
 | [arXiv-chat](https://github.com/KiwiGaze/arXiv-chat) | Local-first agentic RAG research assistant for arXiv CS.AI papers |
-| [velata](https://github.com/KiwiGaze/velata) | macOS floating scratchpad that rewrites messy dictated text into clean copy |
-| [codex-status-bar](https://github.com/KiwiGaze/codex-status-bar) | macOS menu bar app showing Codex CLI's live status |
-| [OmniSearches](https://github.com/KiwiGaze/OmniSearches) | Open-source AI search engine with web sources + image search |
-| [FlowAgenda](https://github.com/KiwiGaze/FlowAgenda) | Turn natural language into calendar events with LLMs |
+| [Simplifying.app](https://github.com/KiwiGaze/simplifying) | AI productivity and automation platform |
 
 ## `$ tail -f /var/log/activity`
 
