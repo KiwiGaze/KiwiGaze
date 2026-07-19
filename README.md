@@ -1,94 +1,58 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/boot-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/boot-light.svg">
-  <img alt="terminal: whoami → qi yijiazhen (@kiwigaze), full-stack engineer / ai-tooling hacker, hong kong" src="assets/boot-dark.svg" width="100%">
-</picture>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sysinfo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/sysinfo-light.svg">
-  <img alt="system card — role: full-stack engineer · ai tooling; now: founder-mode @ simplifying; oss: 4 PRs merged into multica-ai/multica (41k+ stars); langs: typescript, python, go, swift" src="assets/sysinfo-dark.svg" width="100%">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=%24+whoami;%24+%E2%86%92+qi+yijiazhen+%5Bkiwigaze%5D;%24+%E2%86%92+building+ai-native+tools;%24+%E2%86%92+shipping+from+hong+kong)](https://git.io/typing-svg)
 
-## <samp>$ ls ~/ships</samp>
+</div>
 
-<p>
-  <a href="https://github.com/KiwiGaze/glm-for-copilot"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-glm-for-copilot-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-glm-for-copilot-light.svg">
-    <img alt="glm-for-copilot — GLM lineup inside GitHub Copilot Chat, BYOK VS Code extension" src="assets/card-glm-for-copilot-dark.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/multica-ai/multica"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-multica-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-multica-light.svg">
-    <img alt="multica — open-source managed agents platform, 4 PRs merged upstream, 41k+ stars" src="assets/card-multica-dark.svg" width="49%">
-  </picture></a>
-</p>
-<p>
-  <a href="https://github.com/KiwiGaze/velata"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-velata-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-velata-light.svg">
-    <img alt="velata — macOS floating scratchpad that rewrites dictated text into clean copy" src="assets/card-velata-dark.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/KiwiGaze/arXiv-chat"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-arxiv-chat-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-arxiv-chat-light.svg">
-    <img alt="arXiv-chat — local-first agentic RAG assistant for arXiv CS.AI papers" src="assets/card-arxiv-chat-dark.svg" width="49%">
-  </picture></a>
-</p>
-<p>
-  <a href="https://github.com/KiwiGaze/codex-status-bar"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-codex-status-bar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-codex-status-bar-light.svg">
-    <img alt="codex-status-bar — macOS menu-bar app showing the Codex CLI's live status" src="assets/card-codex-status-bar-dark.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/KiwiGaze/OmniSearches"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-omnisearches-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-omnisearches-light.svg">
-    <img alt="OmniSearches — free open-source AI search engine with live web grounding and image search" src="assets/card-omnisearches-dark.svg" width="49%">
-  </picture></a>
-</p>
+```console
+kiwigaze@hk ~ $ cat /etc/profile
+NAME     Qi Yijiazhen (KiwiGaze)
+ROLE     Full-stack engineer, AI tooling hacker
+BASE     Hong Kong
+CURRENT  Founder-mode @ Simplifying — simplifying the world, one tool at a time
+FOCUS    LLM agents · RAG pipelines · developer tooling · macOS utilities
+OSS      Contributor @ multica-ai/multica (managed agents platform)
+SITE     qiyijiazhen.com
+```
 
-<sub>archive: [FlowAgenda](https://github.com/KiwiGaze/FlowAgenda) · [personal-portfolio-site](https://github.com/KiwiGaze/personal-portfolio-site) · [simplifying](https://github.com/KiwiGaze/simplifying)</sub>
+<div align="center">
 
-## <samp>$ git log upstream/multica --author=kiwigaze</samp>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiwiGaze&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/KiwiGaze)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiGaze&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/KiwiGaze)
 
-> [multica-ai/multica](https://github.com/multica-ai/multica) — the open-source managed agents platform · 41k+ ★
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiwiGaze&theme=tokyonight&hide_border=true)](https://github.com/KiwiGaze)
 
-- [`#3159`](https://github.com/multica-ai/multica/pull/3159) `merged` — `/` slash-command palette for invoking agent skills — React/TipTap UI + Go daemon prompt handling
-- [`#3210`](https://github.com/multica-ai/multica/pull/3210) `merged` — fix duplicate desktop back-navigation in the Electron platform layer
-- [`#2973`](https://github.com/multica-ai/multica/pull/2973) `merged` — mobile readability for skill browsing + file-viewer pages
-- [`#2670`](https://github.com/multica-ai/multica/pull/2670) `merged` — transparent avatar rendering fix
-- [`#2915`](https://github.com/multica-ai/multica/pull/2915) `open` — precheckout task repositories before daemon agent startup
+</div>
 
-## <samp>$ stack --list</samp>
+## `$ toolbox`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
-  <img alt="stack — languages: typescript, python, go, swift · backend: node.js, express, fastapi, postgresql, redis, rest apis · frontend: react, next.js, vue, electron · ai/agents: llm tool-calling, rag pipelines, mcp, agent workflows · platform: docker, github actions, macos apps, ci release pipelines" src="assets/skills-dark.svg" width="100%">
-</picture>
+[![Skills](https://skillicons.dev/icons?i=ts,py,go,swift,vue,react,nextjs,nodejs,fastapi,postgres,redis,docker&theme=dark)](https://skillicons.dev)
 
-## <samp>$ tail -f /var/log/telemetry</samp>
+## `$ ls ~/featured`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KiwiGaze&bg_color=0b0f0d&color=cfe3d8&line=00e69a&point=f5b957&area=true&area_color=00e69a&hide_border=true&radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KiwiGaze&bg_color=f7f5ee&color=26382e&line=0a7d4f&point=a86d0a&area=true&area_color=0a7d4f&hide_border=true&radius=8">
-  <img alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiGaze&bg_color=0b0f0d&color=cfe3d8&line=00e69a&point=f5b957&area=true&area_color=00e69a&hide_border=true&radius=8" width="100%">
-</picture>
+| project | what it does |
+| --- | --- |
+| [glm-for-copilot](https://github.com/KiwiGaze/glm-for-copilot) | GLM-5.2 + full GLM lineup inside GitHub Copilot Chat (BYOK) — VS Code extension |
+| [arXiv-chat](https://github.com/KiwiGaze/arXiv-chat) | Local-first agentic RAG research assistant for arXiv CS.AI papers |
+| [velata](https://github.com/KiwiGaze/velata) | macOS floating scratchpad that rewrites messy dictated text into clean copy |
+| [codex-status-bar](https://github.com/KiwiGaze/codex-status-bar) | macOS menu bar app showing Codex CLI's live status |
+| [OmniSearches](https://github.com/KiwiGaze/OmniSearches) | Open-source AI search engine with web sources + image search |
+| [FlowAgenda](https://github.com/KiwiGaze/FlowAgenda) | Turn natural language into calendar events with LLMs |
+
+## `$ tail -f /var/log/activity`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiwiGaze&theme=tokyo-night&hide_border=true&area=true)](https://github.com/KiwiGaze)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake.svg">
-  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/qiyijiazhen.com-00e69a?style=for-the-badge&logo=safari&logoColor=0b0f0d)](https://www.qiyijiazhen.com)
-[![LinkedIn](https://img.shields.io/badge/in%2Fyijiazhenqi-62d0ff?style=for-the-badge&logo=linkedin&logoColor=0b0f0d)](https://www.linkedin.com/in/yijiazhenqi)
-[![X](https://img.shields.io/badge/%40QiYijiazhen-f5b957?style=for-the-badge&logo=x&logoColor=0b0f0d)](https://twitter.com/QiYijiazhen)
-
-<samp>$ echo "simplifying the world, one tool at a time."</samp>
+[![Website](https://img.shields.io/badge/qiyijiazhen.com-7AA2F7?style=for-the-badge&logo=safari&logoColor=white)](https://www.qiyijiazhen.com)
+[![Twitter](https://img.shields.io/badge/@QiYijiazhen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QiYijiazhen)
+![Profile Views](https://komarev.com/ghpvc/?username=KiwiGaze&color=7aa2f7&style=for-the-badge&label=VISITORS)
 
 </div>
