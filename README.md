@@ -14,15 +14,6 @@ OSS      Contributor @ multica-ai/multica (managed agents platform)
 SITE     qiyijiazhen.com
 ```
 
-<div align="center">
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiwiGaze&theme=tokyonight)](https://github.com/KiwiGaze)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiwiGaze&theme=tokyonight)](https://github.com/KiwiGaze)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiwiGaze&theme=tokyonight&hide_border=true)](https://github.com/KiwiGaze)
-
-</div>
-
 ## `$ toolbox`
 
 [![Skills](https://skillicons.dev/icons?i=ts,py,go,swift,vue,react,nextjs,nodejs,fastapi,postgres,redis,docker&theme=dark)](https://skillicons.dev)
