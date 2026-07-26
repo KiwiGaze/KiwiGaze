@@ -30,12 +30,6 @@ SITE     qiyijiazhen.com
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiwiGaze&theme=tokyo-night&hide_border=true&area=true)](https://github.com/KiwiGaze)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake.svg">
-  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/KiwiGaze/KiwiGaze/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div align="center">
 
 [![Website](https://img.shields.io/badge/qiyijiazhen.com-7AA2F7?style=for-the-badge&logo=safari&logoColor=white)](https://www.qiyijiazhen.com)
