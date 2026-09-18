@@ -26,10 +26,6 @@ SITE     qiyijiazhen.com
 | [arXiv-chat](https://github.com/KiwiGaze/arXiv-chat) | Local-first agentic RAG research assistant for arXiv CS.AI papers |
 | [Simplifying.app](https://github.com/KiwiGaze/simplifying) | AI productivity and automation platform |
 
-## `$ tail -f /var/log/activity`
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiwiGaze&theme=tokyo-night&hide_border=true&area=true)](https://github.com/KiwiGaze)
-
 <div align="center">
 
 [![Website](https://img.shields.io/badge/qiyijiazhen.com-7AA2F7?style=for-the-badge&logo=safari&logoColor=white)](https://www.qiyijiazhen.com)
